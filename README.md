@@ -1,2 +1,2 @@
 # teng
-My first repository on GitHub
+this is my firt test
